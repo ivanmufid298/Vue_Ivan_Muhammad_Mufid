@@ -3,7 +3,7 @@ Figma adalah aplikasi desain berbasis cloud dan alat prototyping untuk project d
 
 #Fitur-fitur pada figma
 Figma memiliki berbagai jenis fitur yang berguna untuk keperluan desain UI dan UX kamu.  Fitur-fitur Figma di antaranya adalah:
--Alat pena modern yang memungkinkan kamu menggambar ke segala arah.
+-Alat pena modern yang memungkinkan  menggambar ke segala arah.
 -Fitur font Open Type.
 -Automated–task melalui plugin untuk banyak elemen dalam mempercepat project.
 -Selection Tools dengan penyesuaian otomatis untuk pengaturan jarak, pengaturan, dan pengorganisasian.
