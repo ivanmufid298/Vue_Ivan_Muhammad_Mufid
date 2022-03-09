@@ -41,3 +41,4 @@ fungsi dari javascript adalah membuat web jadi lebih dinamis dan interaktif, tid
 3) menggunakan looping map dan replace untuk menggantikan string "-" menjadi "/".
 4) diberikan sebuah value atau nilai, kemudian output dari nilai tersebut berupa perkalian 2, menggunakan looping map dan return [name] *2.
 5) melakukan pembulatan angka desimal terdekat dengan menggunakan math.round().
+https://github.com/mmufid298/Section_8_JSRefreshment.git
