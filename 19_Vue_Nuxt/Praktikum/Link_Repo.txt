@@ -1,1 +1,1 @@
-https://github.com/mmufid298/vue_nuxt.git
+https://github.com/mmufid298/vuenuxt_19.git
